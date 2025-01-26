@@ -22,13 +22,13 @@ repository               : "https://github.com/alijavaidistar/alijavaidistar.git
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ali Javaid"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : &description
+  location         : "TX, USA"
+  employer         : "Geometris LP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ali@geometris.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
