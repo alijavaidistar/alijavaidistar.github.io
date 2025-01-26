@@ -12,9 +12,9 @@ title                    : "Ali Javaid / Software Engineer"
 title_separator          : "-"
 name                     : &name "Ali Javaid"
 description              : &description "Software Engineer with expertise in building user-friendly applications using Python GUI frameworks and developing websites with Node.js. Proficient in full-stack development, adept at creating efficient, scalable solutions, and integrating robust backend systems. Experienced in providing exceptional technical support, troubleshooting complex issues, and delivering optimized solutions to meet client needs. Committed to continuous learning and leveraging cutting-edge technologies to drive innovation and deliver impactful software products."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alijavaidistar.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/alijavaidistar/alijavaidistar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
