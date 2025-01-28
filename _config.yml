@@ -21,7 +21,7 @@ repository               : "https://github.com/alijavaidistar/alijavaidistar.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foo-bar-identity.jpg"
+  avatar           : "images/profile.png"
   name             : "Ali Javaid"
   pronouns         : # example: "she/her"  
   bio              : &description
